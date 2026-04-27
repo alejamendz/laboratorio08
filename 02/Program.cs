@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Collections.Generic;
 
 Console.WriteLine("Ingrese cuantpos productos: ");
 int productos=int.Parse(Console.ReadLine());
