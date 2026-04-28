@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("Ingrese apartamentos: ");
 int apartamentos= int.Parse(Console.ReadLine());
+
 Console.WriteLine("Ingrese días: ");
 int dias = int.Parse(Console.ReadLine());
 
