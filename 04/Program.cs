@@ -1,6 +1,4 @@
-﻿using System.Xml;
-
-Console.WriteLine("Ingrese estudiantes: ");
+﻿Console.WriteLine("Ingrese estudiantes: ");
 int estudiantes= int.Parse(Console.ReadLine());
 
 Console.WriteLine("Ingrese evaluaciones: ");
